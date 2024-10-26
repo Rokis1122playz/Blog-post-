@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Skärmbild 2024-10-25 200037.png)
+[blog-post](./Skärmbild 2024-10-25 200037.png)
 
 ### Links
 
